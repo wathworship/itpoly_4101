@@ -2,8 +2,7 @@
   "name": "my-itpoly",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/wathworship/itpoly_4101.git",
-
+  "homepage": "https://wathworship.github.io/itpoly_4101/",
   "dependencies": {
     "@react-pdf-viewer/core": "^3.12.0",
     "@react-pdf-viewer/default-layout": "^3.12.0",
