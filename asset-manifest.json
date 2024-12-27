@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/itpoly_4101/static/css/main.f95ae837.css",
+    "main.js": "/itpoly_4101/static/js/main.8ce9207d.js",
+    "static/js/488.0635c98f.chunk.js": "/itpoly_4101/static/js/488.0635c98f.chunk.js",
+    "static/media/logo.svg": "/itpoly_4101/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/itpoly_4101/index.html",
+    "main.f95ae837.css.map": "/itpoly_4101/static/css/main.f95ae837.css.map",
+    "main.8ce9207d.js.map": "/itpoly_4101/static/js/main.8ce9207d.js.map",
+    "488.0635c98f.chunk.js.map": "/itpoly_4101/static/js/488.0635c98f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f95ae837.css",
+    "static/js/main.8ce9207d.js"
+  ]
+}
